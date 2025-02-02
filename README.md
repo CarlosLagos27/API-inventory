@@ -31,7 +31,7 @@ This is a Spring Boot-based API for managing inventory and tickets in a logistic
 
 ```bash
 git clone https://github.com/CarlosLagos27/API-inventory.git
-cd inventory-API
+cd API-inventory
 ```
 
 ### 2. Configure the Database
